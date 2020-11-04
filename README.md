@@ -1,5 +1,5 @@
 # USAF-html-checkpoint
-HTML Checkpoint on SDI Learn
+HTML Checkpoint on SDI Learn. This is probably the most un-DRY (moist?) implementation ever, since each movie is hardcoded with HTML having to be pasted across each page to get identical layouts. Additionally, the "return to results" banner on each movie page wasn't implemented due to time constraints, along with a functioning search feature (although the box is there). There also wasn't time to figure out how to fix the size of the image properly in the media object so that it didn't constrain the text or grow too large.
 
 ## Project instructions
 - Recreate the GMDB webpage (sample images below) from scratch using raw HTML and CSS
